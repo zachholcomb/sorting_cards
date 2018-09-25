@@ -1,7 +1,4 @@
----
-layout: page
-title: SortingCards
----
+# Sorting Cards
 
 In this project, you will write a program to simulate a deck of cards. We will add functionality to guess what the card on the top of the deck is, and sort the deck.
 
