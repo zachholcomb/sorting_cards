@@ -20,12 +20,4 @@ class DeckTest < Minitest::Test
   def test_it_can_count_cards
     assert_equal 3, @deck.count
   end
-
-
 end
-
-# pry(main)> deck.cards
-# #=> [#<Card:0x00007fa16104e160...>, #<Card:0x00007fa160a62e90...>, #<Card:0x00007fa161a136f0...>]
-#
-# pry(main)> deck.count
-# #=> 3
